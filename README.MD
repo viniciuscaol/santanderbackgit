@@ -3,3 +3,7 @@
 ## Alterando estado
 
 ## Log e restore
+
+## Comando Restore
+
+## Git PUSH
