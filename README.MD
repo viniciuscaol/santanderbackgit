@@ -1,1 +1,3 @@
-# Curso Git
+# Curso Git/Versionamento
+
+## Alterando estado
