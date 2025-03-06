@@ -7,3 +7,5 @@
 ## Comando Restore
 
 ## Git PUSH
+
+## Git PULL
